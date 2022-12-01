@@ -2,6 +2,9 @@ Hi there 👋
 
 I'm a software developer based in Turin, Italy
 
+---
+
+**About me**
 - I currently work at [Luxoft](https://www.luxoft.com), mainly on automotive projects
 - I studied Aerospace Engineering for my bachelor and Mechatronics Engineering for my master's, at the [Politecnico di Torino](https://www.polito.it/)
 - I ~write~ used to write small articles on my microblog (at [albertosantagostino.github.io](https://albertosantagostino.github.io/))
